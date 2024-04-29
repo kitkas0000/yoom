@@ -28,7 +28,7 @@ const Sidebar = () => {
               )}
             >
               <Image
-                src={item.imgURL}
+                src={item.imgUrl}
                 alt={item.label}
                 width={24}
                 height={24}
